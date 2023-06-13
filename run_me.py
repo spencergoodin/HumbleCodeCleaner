@@ -14,12 +14,16 @@ with open(target_filepath + '\input.txt', 'r') as input_file:
         if code != None:
             codes.append(code.group())
 
+input_file.close()
+
 print("Writing codes to output...")
 
 with open(target_filepath + '\output.txt', 'w') as output_file:
 
     for code in codes:
         output_file.write(code + '\n')
+
+output_file.close()
 
 print("Done!")
 
