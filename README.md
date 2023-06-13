@@ -2,6 +2,7 @@ Humble Bundle Steam Product Code Cleaner
 https://github.com/spencergoodin
 
 This script uses Python 3.10, however any version of Python 3 should work. If you do not have Python installed, the latest version can be found at https://www.python.org/downloads/
+
 ------------------------------------------------------------------------------------------
 WHAT IT DOES:
 
@@ -20,6 +21,7 @@ INSTRUCTIONS:
 5a) If using Augmented Steam, copy the contents of output.txt to the 'activate multiple products' window on steam.com. This must be done in the web browser, not in the standalone storefront application.
 
 5b) If not using Augmented Steam, enter each code into Steam's product activation field individually.
+
 ------------------------------------------------------------------------------------------
 INFORMATION ON AUGMENTED STEAM:
 https://augmentedsteam.com/
@@ -30,8 +32,6 @@ https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojg
 Augmented Steam download for Firefox:
 https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/
 ------------------------------------------------------------------------------------------
-MIT License
-
 Copyright (c) 2023 J. Spencer Goodin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
