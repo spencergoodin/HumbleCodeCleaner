@@ -34,6 +34,7 @@ https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojg
 
 Augmented Steam download for Firefox:
 https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/
+
 License
 ------------------------------------------------------------------------------------------
 Copyright (c) 2023 J. Spencer Goodin
