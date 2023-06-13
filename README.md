@@ -1,11 +1,12 @@
 Humble Bundle Steam Product Code Cleaner
+
 https://github.com/spencergoodin
 
 This script uses Python 3.10, however any version of Python 3 should work. If you do not have Python installed, the latest version can be found at https://www.python.org/downloads/
 
-------------------------------------------------------------------------------------------
-WHAT IT DOES:
 
+WHAT IT DOES:
+------------------------------------------------------------------------------------------
 This script is designed to extract the fifteen digit steam product codes from humblebundle.com or a similar digital storefront from a larger text input, usually a copy/paste of the webpage's contents, to make redeeming large numbers of product codes less tedious than manually selecting each code. It can be used in conjunction with the Augmented Steam browser plug-in to redeem product codes very quickly.
 
 INSTRUCTIONS:
@@ -22,8 +23,10 @@ INSTRUCTIONS:
 
 5b) If not using Augmented Steam, enter each code into Steam's product activation field individually.
 
-------------------------------------------------------------------------------------------
+
 INFORMATION ON AUGMENTED STEAM:
+------------------------------------------------------------------------------------------
+Augmented Steam is a plugin which allows for a variety of additional features to be used compared to the steam desktop application or unmodified web storefront. The most relevant of these features within the scope of this project is to redeem multiple product codes at once. More information on Augmented steam can be found at: 
 https://augmentedsteam.com/
 
 Augmented Steam download for Chrome:
@@ -31,6 +34,7 @@ https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojg
 
 Augmented Steam download for Firefox:
 https://addons.mozilla.org/en-US/firefox/addon/augmented-steam/
+License
 ------------------------------------------------------------------------------------------
 Copyright (c) 2023 J. Spencer Goodin
 
